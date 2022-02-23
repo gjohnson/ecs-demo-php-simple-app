@@ -15,7 +15,11 @@
     <body>
         <div class="container">
             <div class="hero-unit">
+<<<<<<< HEAD
                 <h1>Simple PHP App - Hello</h1>
+=======
+                <h1>Simple PHP App - Test</h1>
+>>>>>>> 1dd7dee49ca050f981b976bce2246c4f9f2a0b50
                 <h2>Congratulations</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
